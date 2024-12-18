@@ -1,0 +1,75 @@
+{
+    "CPU Usage": 10.3,
+    "Memory Usage": {
+        "Total": 6087794688,
+        "Used": 853569536,
+        "Free": 4609425408,
+        "Percent": 24.3
+    },
+    "Disk Usage": {
+        "/": {
+            "Total": 10726932480,
+            "Used": 2759147520,
+            "Free": 7967784960,
+            "Percent": 25.7
+        },
+        "/tmp": {
+            "Total": 5358223360,
+            "Used": 34615296,
+            "Free": 5323608064,
+            "Percent": 0.6
+        },
+        "/opt": {
+            "Total": 11800674304,
+            "Used": 1188270080,
+            "Free": 10612404224,
+            "Percent": 10.1
+        },
+        "/boot": {
+            "Total": 520785920,
+            "Used": 179494912,
+            "Free": 341291008,
+            "Percent": 34.5
+        },
+        "/var": {
+            "Total": 21464350720,
+            "Used": 1960185856,
+            "Free": 19504164864,
+            "Percent": 9.1
+        },
+        "/home": {
+            "Total": 5358223360,
+            "Used": 273522688,
+            "Free": 5084700672,
+            "Percent": 5.1
+        }
+    },
+    "Top Processes": [
+        {
+            "pid": 26196,
+            "cpu_percent": 1.0,
+            "name": "kcs-created"
+        },
+        {
+            "pid": 26945,
+            "cpu_percent": 0.6,
+            "name": "python"
+        },
+        {
+            "pid": 5096,
+            "cpu_percent": 0.4,
+            "name": "java"
+        },
+        {
+            "pid": 5538,
+            "cpu_percent": 0.4,
+            "name": "mongod"
+        },
+        {
+            "pid": 26190,
+            "cpu_percent": 0.4,
+            "name": "kcs-evdefer/1"
+        }
+    ],
+    "Warnings": []
+}
