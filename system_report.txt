@@ -1,0 +1,44 @@
+CPU Usage: 50.0%
+Memory Usage:
+  Total: 6087794688 Bytes
+  Used: 853737472 Bytes
+  Free: 4609257472 Bytes
+  Usage: 24.3%
+Disk Usage:
+  Mountpoint: /
+    Total: 10726932480 Bytes
+    Used: 2759147520 Bytes
+    Free: 7967784960 Bytes
+    Usage: 25.7%
+  Mountpoint: /tmp
+    Total: 5358223360 Bytes
+    Used: 34615296 Bytes
+    Free: 5323608064 Bytes
+    Usage: 0.6%
+  Mountpoint: /opt
+    Total: 11800674304 Bytes
+    Used: 1188270080 Bytes
+    Free: 10612404224 Bytes
+    Usage: 10.1%
+  Mountpoint: /boot
+    Total: 520785920 Bytes
+    Used: 179494912 Bytes
+    Free: 341291008 Bytes
+    Usage: 34.5%
+  Mountpoint: /var
+    Total: 21464350720 Bytes
+    Used: 1960185856 Bytes
+    Free: 19504164864 Bytes
+    Usage: 9.1%
+  Mountpoint: /home
+    Total: 5358223360 Bytes
+    Used: 273543168 Bytes
+    Free: 5084680192 Bytes
+    Usage: 5.1%
+Top 5 CPU-Consuming Processes:
+  PID: 1, Name: systemd, CPU Usage: 0.0%
+  PID: 2, Name: kthreadd, CPU Usage: 0.0%
+  PID: 3, Name: ksoftirqd/0, CPU Usage: 0.0%
+  PID: 5, Name: kworker/0:0H, CPU Usage: 0.0%
+  PID: 7, Name: migration/0, CPU Usage: 0.0%
+Warnings:
